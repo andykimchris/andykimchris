@@ -13,7 +13,6 @@ I'm a deep DevOps enthusiast and passionate Senior Developer focusing on large s
 - ⚡ Fun fact: ...In a previous life, I was a dinosaur.
 />
 
--->
 ### Goals for 2021 💪:
 
 I want to make a customer product that my mum will use and enjoy. I want to work for a CEO who loves employees as much as customers. I want to be a source of inspiration in the Kenyan tech community. 
@@ -21,8 +20,8 @@ I want to make a customer product that my mum will use and enjoy. I want to work
 
 ---
 ### Status : 
-![Andy's github stats](https://github-readme-stats.vercel.app/api?username=andykimchris&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andykimchris&hide=html&theme=tokyonight)](https://github.com/andykimchris/github-readme-stats)
+![Andy's github stats](https://github-readme-stats.vercel.app/api?username=andykimchris&show_icons=true&theme=monokai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andykimchris&hide=html&theme=monokai)](https://github.com/andykimchris/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/andrew-kimani-muchiri/
