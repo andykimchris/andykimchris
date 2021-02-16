@@ -12,7 +12,6 @@ I'm a deep [DevOps](https://medium.com/@devfire/how-to-become-a-devops-engineer-
 - 💬 Ask me about React, Ruby, Django and Chickens. Yes seriously!
 - 📫 How to reach me: ... `andy at hey dot com`
 - ⚡ Fun fact: ...In a previous life, I was a dinosaur.
-/>
 
 ### Goals for 2021 💪:
 
