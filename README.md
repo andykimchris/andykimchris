@@ -7,6 +7,7 @@ I'm a deep DevOps enthusiast and passionate Senior Developer focusing on large s
 - 🔭 I’m currently working on Python and Docker
 - 🌱 I’m busy being a DevOps enthusiast
 - 👯 I’m looking to collaborate on challenging teams
+- 📖 I'm hoping to start writing on [Medium](https://medium.com/@andrew.muchiri97)
 - 🤔 I’m looking for help with Kubernetes
 - 💬 Ask me about React, Ruby, Django and Chickens. Yes seriously!
 - 📫 How to reach me: ... `andy at hey dot com`
