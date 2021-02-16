@@ -1,27 +1,19 @@
-### Hi there 👋
+# Hello World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Andy
 
 [![HitCount](http://hits.dwyl.com/andykimchris/andykimchris.svg)](http://hits.dwyl.com/andykimchris/andykimchris)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on 
+- 🌱 I’m busy being a DevOps enthusiast
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🤔 I’m looking for help with Kubernetes
+- 💬 Ask me about React, Ruby and Chickens. Yes seriously!
+- 📫 How to reach me: ... `andy at hey dot com`
 - ⚡ Fun fact: ...Ambidextrous kid
 -->
-🤔 🤔 🤔 🤔 🤔 🤔 🤔 
+/>
 
-## Contact Me :
-[<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
-
----
 ### Languages and Tools I can use 💪💪💪💪💪:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
