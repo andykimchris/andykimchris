@@ -2,7 +2,7 @@
 
 [![Profile views](http://hits.dwyl.com/andykimchris/andykimchris.svg)](http://hits.dwyl.com/andykimchris/andykimchris)
 
-I'm a deep DevOps enthusiast and passionate Senior Developer focusing on large scale fullstack web applications. I am a product of ingenuity and perspective meshed into one. Loving Software, Living in Beta, Working in Code.
+I'm a deep [DevOps](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737) enthusiast and passionate Senior Developer focusing on large scale fullstack web applications. I am a product of ingenuity and perspective meshed into one. Loving Software, Living in Beta, Working in Code.
 
 - 🔭 I’m currently working on Python and Docker
 - 🌱 I’m busy being a DevOps enthusiast
