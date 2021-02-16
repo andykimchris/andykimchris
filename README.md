@@ -11,7 +11,6 @@ I'm a deep DevOps enthusiast and passionate Senior Developer focusing on large s
 - 💬 Ask me about React, Ruby, Django and Chickens. Yes seriously!
 - 📫 How to reach me: ... `andy at hey dot com`
 - ⚡ Fun fact: ...In a previous life, I was a dinosaur.
--->
 />
 
 -->
