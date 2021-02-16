@@ -22,7 +22,6 @@ I want to make a customer product that my mum will use and enjoy. I want to work
 <p align="left">
 <a href="https://twitter.com/andykimcris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="andykimcris" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andrew-kimani-muchiri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrew-kimani-muchiri" height="30" width="40" /></a>
-<a href="https://medium.com/@andrew.muchiri97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@andrew.muchiri97" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
