@@ -4,7 +4,7 @@
 
 I'm a deep DevOps enthusiast and passionate Senior Developer focusing on large scale fullstack web applications. I am a product of ingenuity and perspective meshed into one. Loving Software, Living in Beta, Working in Code.
 
-- 🔭 I’m currently working on Python
+- 🔭 I’m currently working on Python and Docker
 - 🌱 I’m busy being a DevOps enthusiast
 - 👯 I’m looking to collaborate on challenging teams
 - 🤔 I’m looking for help with Kubernetes
@@ -22,7 +22,3 @@ I want to make a customer product that my mum will use and enjoy. I want to work
 ### Status : 
 ![Andy's github stats](https://github-readme-stats.vercel.app/api?username=andykimchris&show_icons=true&theme=light)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andykimchris&hide=html&theme=light)](https://github.com/andykimchris/github-readme-stats)
-
-
-[linkedin]: https://www.linkedin.com/in/andrew-kimani-muchiri/
-[twitter]: https://twitter.com/andykimcris
