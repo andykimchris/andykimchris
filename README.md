@@ -1,4 +1,6 @@
-# Hello World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Andy
+# Hello World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Andy
 
 [![HitCount](http://hits.dwyl.com/andykimchris/andykimchris.svg)](http://hits.dwyl.com/andykimchris/andykimchris)
 
