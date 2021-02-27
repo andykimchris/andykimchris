@@ -4,7 +4,7 @@
 I'm a deep [DevOps](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737) enthusiast and passionate Senior Developer focusing on large scale fullstack web applications. I am a product of ingenuity and perspective meshed into one. Loving Software, Living in Beta, Working in Code.
 
 - 🔭 I’m currently working on Python and Docker
-- 🌱 I’m busy being a DevOps enthusiast
+- 🌱 I’m busy fixing [Codewars](https://www.codewars.com/users/andykimchris) issues
 - 👯 I’m looking to collaborate on challenging teams
 - 📖 I'm hoping to start writing on [Medium](https://medium.com/@andrew.muchiri97)
 - 🤔 I’m looking for help with Kubernetes
