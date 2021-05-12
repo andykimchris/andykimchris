@@ -16,18 +16,10 @@ I'm a deep [DevOps](https://medium.com/@devfire/how-to-become-a-devops-engineer-
 
 I want to make a customer product that my mum will use and enjoy. I want to work for a CEO who loves employees as much as customers. I want to be a source of inspiration in the Kenyan tech community. 
 
+### Connect with Me 🔗
 
-<h3 align="left">Let's Connect 💻:</h3>
-<p align="left">
-<a href="https://twitter.com/andykimcris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="andykimcris" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrew-kimani-muchiri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andrew-kimani-muchiri" height="30" width="40" /></a>
-</p>
-
-### Let's Connect 🔗
-
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/marko-denic-full-stack-developer/)
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/denicmarko) 
-[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/markodenic1/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://linkedin.com/in/andrew-kimani-muchiri)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/andykimcris) 
 
 
 <h3 align="left">Languages and Tools 🛠:</h3>
