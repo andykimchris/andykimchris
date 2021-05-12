@@ -31,3 +31,12 @@ I want to make a customer product that my mum will use and enjoy. I want to work
 ### Status ⭐️: 
 ![Andy's github stats](https://github-readme-stats.vercel.app/api?username=andykimchris&show_icons=true&theme=light)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andykimchris&hide=html&theme=light)](https://github.com/andykimchris/github-readme-stats)
+
+### Github Stats ⚡️:
+
+<div>
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andykimchris&show_icons=true&hide_border=false&theme=dracula&layout=compact&langs_count=4" />
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=andykimchris&show_icons=true&hide_border=false&theme=dracula" />
+</div>
+
+
