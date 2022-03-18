@@ -5,8 +5,8 @@ I'm a deep [DevOps](https://medium.com/@devfire/how-to-become-a-devops-engineer-
 - 🔭 I’m currently working on Go and Docker
 - 🌱 I’m busy fixing [Codewars](https://www.codewars.com/users/andykimchris) issues
 - 👯 I’m looking to collaborate on cross-functional teams
-- 📖 I'm hoping to start writing on [Medium](https://medium.com/@andrew.muchiri97)
-- 🤔 I’m looking for help with Kubernetes
+- 📖 I'm working on publishing quality content on [Medium](https://medium.com/@andykimchris)
+- 🤔 I’m seeking help with Kubernetes
 - 📚 Reading [Algorithms to Live By](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
 - 💬 Ask me about React, Ruby, Prometheus and Intel vs AMD(and M1).
 - 📫 How to reach me: ... `andy at hey dot com`
