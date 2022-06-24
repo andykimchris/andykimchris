@@ -14,7 +14,9 @@ I'm a deep [DevOps](https://medium.com/@devfire/how-to-become-a-devops-engineer-
 
 ### Goals for 2022 💪:
 
-I want to make a customer product that my family will use and enjoy. I want to work for a company that loves employees as much as customers. I'm hoping to be a source of inspiration in the Kenyan tech community. 
+Find a new tech community to love. 
+Meet the Linux geeks of the country.
+Develop production-grade services in Havana,Cuba.
 
 ### Connect with Me 🔗
 
