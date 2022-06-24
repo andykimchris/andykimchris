@@ -12,7 +12,7 @@ I'm a deep [DevOps](https://medium.com/@devfire/how-to-become-a-devops-engineer-
 - 📫 How to reach me: ... `andy at hey dot com`
 - ⚡ Fun fact: ...In a previous life, I was a dinosaur.
 
-### Goals for 2021 💪:
+### Goals for 2022 💪:
 
 I want to make a customer product that my family will use and enjoy. I want to work for a company that loves employees as much as customers. I'm hoping to be a source of inspiration in the Kenyan tech community. 
 
