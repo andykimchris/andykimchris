@@ -2,17 +2,17 @@
 
 I'm a deep [DevOps](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737) enthusiast and passionate Software Developer focusing on large scale fullstack web applications. I am a product of ingenuity and perspective meshed into one. Loving Software, Living in Beta, Working in Code.
 
-- 🔭 I’m currently working on Gatsby and Next
+- 🔭 I’m currently working on Astro and Next
 - 🌱 I’m busy fixing [Codewars](https://www.codewars.com/users/andykimchris) issues
 - 👯 I’m looking to collaborate on cross-functional teams
 - 📖 I'm working on publishing quality content on [Medium](https://medium.com/@andykimchris)
 - 🤔 I’m seeking help with Kubernetes
 - 📚 Reading [Think Again: The Power of Knowing What You Don't Know](https://www.goodreads.com/book/show/55539565-think-again)
-- 💬 Ask me about React, Ruby, Prometheus and Intel vs AMD(and M1).
+- 💬 Ask me about React, Ruby, Prometheus and Intel vs AMD(and M2).
 - 📫 How to reach me: ... `andy at hey dot com`
 - ⚡ Fun fact: ...In a previous life, I was a dinosaur.
 
-### Goals for 2022 💪:
+### Goals for 2023 💪:
 
 Find a new tech community to love. 
 Meet the Linux geeks of the country.
