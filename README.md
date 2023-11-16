@@ -41,7 +41,8 @@ Develop production-grade services in Havana,Cuba.
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andykimchris&show_icons=true&hide_border=false&theme=dracula&layout=compact&langs_count=4" />
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=andykimchris&show_icons=true&hide_border=false&theme=dracula" />
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andykimchris&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andykimchris&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andykimchris&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
