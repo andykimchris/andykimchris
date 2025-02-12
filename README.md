@@ -12,11 +12,10 @@ I'm a deep [DevOps](https://medium.com/@devfire/how-to-become-a-devops-engineer-
 - 📫 How to reach me: ... `andy at hey dot com`
 - ⚡ Fun fact: ...In a previous life, I was a dinosaur.
 
-### Goals for 2023 💪:
+### Goals for 2025 💪:
 
-Find a new tech community to love. 
-Meet the Linux geeks of the country.
-Develop production-grade services in Havana,Cuba.
+Master GO, LGTM stack, K8s/Istio/HC.
+Develop production-grade services.
 
 ### Connect with Me 🔗
 
